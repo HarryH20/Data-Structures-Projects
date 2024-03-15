@@ -1,0 +1,5 @@
+4
+waco_server houston_server 1
+houston_server dallas_server 2
+dallas_server austin_server 3
+austin_server waco_server 4

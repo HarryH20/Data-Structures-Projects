@@ -1,0 +1,8 @@
+7
+a_server b 10
+b c 10
+c d 10
+d e 1
+a_server f 20
+f g 1
+g d 1

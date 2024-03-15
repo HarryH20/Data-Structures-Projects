@@ -1,0 +1,7 @@
+6
+seattle_server tacoma_server 10
+tacoma_server bellingham_server 10
+bellingham_server spokane_server 10
+spokane_server seattle_server 10
+seattle_server forks 20
+forks tacoma_server 20

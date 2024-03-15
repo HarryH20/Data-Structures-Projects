@@ -1,0 +1,7 @@
+6
+washington_dc_server boston_server 50
+boston_server washington_dc_server 50
+washington_dc_server cleveland 50
+cleveland washington_dc_server 50
+boston_server cleveland 50
+cleveland boston_server 50

@@ -1,0 +1,3 @@
+2
+saint_paul minneapolis_server 30
+minneapolis_server detroit 40
