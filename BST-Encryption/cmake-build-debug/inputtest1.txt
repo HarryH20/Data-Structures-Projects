@@ -1,0 +1,11 @@
+i zebra
+i xio
+i understand
+i often
+i harrison
+i gage
+i derek
+i brady
+i alan
+p
+q

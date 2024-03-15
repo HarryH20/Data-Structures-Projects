@@ -1,0 +1,21 @@
+i hello
+i go
+i see
+i do
+i pop
+i know
+i can
+i slow
+i tree
+i bab
+i cab
+i zebra
+r john
+r jacob
+i bab
+i slow
+i hello
+e 'hello see pop'
+d 'r1 r11 r10 r0 r01 r011'
+p
+q

@@ -1,0 +1,12 @@
+i see
+i know
+e 'see'
+e 'know'
+d 'r'
+d 'r0'
+e 'yo'
+e 'slow'
+d 'r00'
+d 'r010'
+p
+q
