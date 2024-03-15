@@ -1,0 +1,6 @@
+5
+10 20 5 hello there
+11 20 5 how are you
+12 20 5 i am fine
+13 20 5 i am glad to hear that
+14 30 5 goodbye
