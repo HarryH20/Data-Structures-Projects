@@ -1,0 +1,43 @@
+i of
+i go
+i march
+i us
+i green
+i baylor
+i good
+i light
+i gold
+i forever
+i and
+i time
+i to
+i that
+i fling
+i we
+i years
+i as
+i line
+i our
+i guide
+i down
+i shall
+i well
+i the
+i long
+i afar
+i ways
+i onward
+i stars
+i old
+i shine
+d 'r100 r0100 r100000 r00 r01011'
+d 'r100 r0100 r100000 r00 r01011'
+d 'r1110 r01 r001 r00100 r1001 r111'
+d 'r0001 r010111 r0001 r100011 r10001 r1000110'
+d 'r1110 r0010 r1000 r010 r000 r01000 r0000'
+d 'r101 r0101 r1001 r110 r r10'
+d 'r000 r01010 r1 r0001 r11 r10000 r0'
+d 'r100 r0100 r100000 r00 r01011'
+l
+p
+q
